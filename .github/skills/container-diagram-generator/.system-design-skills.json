@@ -1,0 +1,23 @@
+{
+  "collection": "system-design-skills",
+  "version": "1.0.0",
+  "skill": "container-diagram-generator",
+  "contractVersion": "1.0.0",
+  "files": [
+    "SKILL.md",
+    "examples.md",
+    "references/SOURCES.md",
+    "references/common/architecture-principles.md",
+    "references/common/design-output-template.md",
+    "references/common/diagram-guidelines.md",
+    "references/common/requirement-schema.md",
+    "references/common/review-checklist.md",
+    "references/common/severity-model.md",
+    "references/common/terminology.md",
+    "references/examples/sample-high-level-design.md",
+    "references/examples/sample-requirements.md",
+    "references/examples/sample-structured-requirements.md",
+    "references/orchestration.md",
+    "tests.md"
+  ]
+}
